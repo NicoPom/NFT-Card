@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://anguluth.github.io/NFT-Card/)
+- Solution URL: (https://anguluth.github.io/NFT-Card/)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
