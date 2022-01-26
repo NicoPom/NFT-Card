@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://anguluth.github.io/NFT-Card/
+- Solution URL: https://nicopom.github.io/NFT-Card/
 
 ### Built with
 
